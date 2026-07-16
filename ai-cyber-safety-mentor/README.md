@@ -2,10 +2,6 @@
 
 A modern, interactive cybersecurity awareness platform that helps users recognize phishing scams, understand manipulation tactics, and build stronger digital safety habits through simulation and AI-assisted analysis.
 
-![CyberGuard AI](https://img.shields.io/badge/Flask-3.x-000000?logo=flask&logoColor=white)
-![CyberGuard AI](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
-![CyberGuard AI](https://img.shields.io/badge/Scikit-Learn-1.x-F7931E?logo=scikit-learn&logoColor=white)
-
 ## ✨ Overview
 
 Live Demo: https://cipher-shield-p9qq.onrender.com/
